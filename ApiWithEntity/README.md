@@ -2,9 +2,9 @@
 ## Database schema
 To build the database schema run the following SQL script.
 ~~~sql
-create database apiwithentity;
+create database ApiWithEntity;
 
-use apiwithentity;
+use ApiWithEntity;
 
 create table contactTypes (
 	id int primary key identity(1,1),
