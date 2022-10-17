@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity2API", "Activity2API\Activity2API.csproj", "{5CCF995C-E73F-46DB-8CDD-0C88F664EC4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Activity2API", "Activity2API\Activity2API.csproj", "{5CCF995C-E73F-46DB-8CDD-0C88F664EC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWithEntity", "ApiWithEntity\ApiWithEntity.csproj", "{99B22510-8681-4F4B-B3F1-9BD3F8D0535D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5CCF995C-E73F-46DB-8CDD-0C88F664EC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CCF995C-E73F-46DB-8CDD-0C88F664EC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CCF995C-E73F-46DB-8CDD-0C88F664EC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B22510-8681-4F4B-B3F1-9BD3F8D0535D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B22510-8681-4F4B-B3F1-9BD3F8D0535D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B22510-8681-4F4B-B3F1-9BD3F8D0535D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B22510-8681-4F4B-B3F1-9BD3F8D0535D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
