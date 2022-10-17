@@ -9,7 +9,7 @@ namespace ApiWithEntity.Models
         public string? Name { get; set; }
         public string? Description { get; set; }
         public string? Phone { get; set; }
-        public int? ContactTypeId { get; set; }
+        public int ContactTypeId { get; set; }
 
         public virtual ContactType? ContactType { get; set; }
     }
